@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(71, 69, 69);
+}
+#Nikecode1 {
+    border-bottom: 1px solid red;
+    padding: 8px 0 8px 0;
+    background-color: silver;
+    font-size: 20px;
+    margin: auto;
+}
+img {
+    width: 19%;
+    border-radius: 14px;
+}
+#Nikecode3 {
+    width: 900px;
+    color:red;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 15px;
+    background-color: #dddddd;
+}
+#Nikecode5 {
+background-color: blue;
+text-align:center;
+color:#cccccc;
+clear:both;
+padding:10px;
+font-size: 20px;
+margin-bottom: 100px;
+}
+table {
+    background-color: yellow;
+    color: blue;
+    border-radius: 4px;
+    margin-left: 300px;
+   
+}
+#Nikecode2 {
+    float:left ;
+    clear: left;
+}
+#Nikecode {
+    width: 900px;
+    color:red;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 15px;
+    background-color: #dddddd;
+}
+iframe {
+    border-radius: 18%;
+    padding: 52px;
+}
+strong {
+    color: orange;
+}
+#Nike1 {
+	float:right;
+	font-size:22px;
+	font-style:italic;
+}
+ul {
+    list-style-type: none;
+    margin: 5;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #333;
+    float: left;
+    clear: left;
+}
+li {
+    float: left;
+    clear: left;
+}
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;   
+}
+li a:hover {
+    background-color: darkblue;
+}
+.active {
+    background-color: red; 
+}
